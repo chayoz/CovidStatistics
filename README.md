@@ -6,7 +6,7 @@ Application for statistical analysis of Covid-19. The main features are:
 - Visualization of the extracted data in the form of graphs.  
 - Country preview on google maps with a short statistical summary.
 
-The covid-19 data for the examples below were taken from the herokuapp covi API.
+The covid-19 data for the examples below were taken from the herokuapp covid API.
 
 
 ## Screenshots
